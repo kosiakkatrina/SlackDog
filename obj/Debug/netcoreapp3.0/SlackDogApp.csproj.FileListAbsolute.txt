@@ -1,0 +1,11 @@
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp.deps.json
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp.runtimeconfig.json
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp.runtimeconfig.dev.json
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp.dll
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/bin/Debug/netcoreapp3.0/SlackDogApp.pdb
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/obj/Debug/netcoreapp3.0/SlackDogApp.csprojAssemblyReference.cache
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/obj/Debug/netcoreapp3.0/SlackDogApp.AssemblyInfoInputs.cache
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/obj/Debug/netcoreapp3.0/SlackDogApp.AssemblyInfo.cs
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/obj/Debug/netcoreapp3.0/SlackDogApp.dll
+/Users/kat/RiderProjects/cryptotech/SlackDogApp/SlackDogApp/obj/Debug/netcoreapp3.0/SlackDogApp.pdb
